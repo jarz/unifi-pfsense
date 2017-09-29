@@ -7,7 +7,7 @@
 UNIFI_SOFTWARE_URL="https://dl.ubnt.com/unifi/5.5.24-2ffbc5dc86/UniFi.unix.zip"
 
 # The rc script associated with this branch or fork:
-RC_SCRIPT_URL="https://raw.githubusercontent.com/gozoinks/unifi-pfsense/master/rc.d/unifi.sh"
+RC_SCRIPT_URL="https://github.com/elas123/unifi-pfsense/tree/master/rc.d/unifi.sh"
 
 
 # If pkg-ng is not yet installed, bootstrap it:
